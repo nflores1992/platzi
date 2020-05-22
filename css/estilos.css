@@ -9,4 +9,7 @@ body {
     color: #ffffff;
     padding: 1em;
     text-align: center;
+    border: 2px solid blue;
+    font-size: 2em;
+    font-weight: 700;
 }
