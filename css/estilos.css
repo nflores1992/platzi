@@ -5,11 +5,11 @@ body {
 }
 
 #cabecera {
-    background-color: darkred;
+    background-color: #ccc;
     color: #ffffff;
     padding: 1em;
     text-align: center;
-    border: 2px solid blue;
+    border: 2px solid red;
     font-size: 2em;
     font-weight: 700;
 }
